@@ -6,7 +6,7 @@
 
 This is normal text in markdown
 
-This is normal text in markdown\
 This is normal text in markdown
+
 This is normal text in markdown  
 This is normal text in markdown
