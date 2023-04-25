@@ -14,6 +14,14 @@ This is normal text in markdown
 
 # *BOLD AND ITALIC*
 
-** BOLD **
-*ITALIC*
+**BOLD**\
+*ITALIC*\
 ***BOLD AND ITALIC***
+>You can also use _ symbol
+
+# BULLET POINTS/ LISTS
+- Day 1
+- Day 2
+  - Day 3
+    - Day 4
+-Day 5
