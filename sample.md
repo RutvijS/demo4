@@ -26,7 +26,7 @@ This is normal text in markdown
     - Day 4
 - Day 5
 
-# NUMBERING OF LIST
+# NUMBERING OF -LIST
 1. Day-1
 2. Day-2
   1. Day-3
@@ -57,5 +57,5 @@ y=3
 print(x+y)
 ```
 
-[list](#numbering-of-list)
+[list](#numbering-of--list)
 
