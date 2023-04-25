@@ -45,7 +45,7 @@ This is link [link](https://github.com/RutvijS/demo4/edit/main/sample.md)
 
 This is link for my git repo [link][DemoRepo]
 
-#Images
+# Images
 
-[Naruto](https://www.google.com/search?q=naruto&rlz=1C1CHBD_enIN1029IN1029&source=lnms&tbm=isch&sa=X&ved=2ahUKEwixrPW7-MP-AhUd8jgGHU3HDmAQ_AUoAXoECAEQAw&biw=1366&bih=695&dpr=1#imgrc=XJp7sHMwa2o-cM)
+![Naruto](https://www.google.com/search?q=naruto&rlz=1C1CHBD_enIN1029IN1029&source=lnms&tbm=isch&sa=X&ved=2ahUKEwixrPW7-MP-AhUd8jgGHU3HDmAQ_AUoAXoECAEQAw&biw=1366&bih=695&dpr=1#imgrc=XJp7sHMwa2o-cM)
 
